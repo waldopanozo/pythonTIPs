@@ -1,0 +1,1 @@
+Hello, this is a starting project about tips of python for developers
